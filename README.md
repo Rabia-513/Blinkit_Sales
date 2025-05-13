@@ -68,3 +68,7 @@ Power BI for data visualization
 
 DAX and Power Query for data modeling and transformation
 
+
+**Dashboard Design**
+![image](https://github.com/user-attachments/assets/efc5cd5f-49fd-4a26-8325-ff35639396d9)
+
